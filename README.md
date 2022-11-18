@@ -40,3 +40,19 @@ Download the Voice of Female speaker pronouncing vowels correctly according to p
 <img src="Images/Male Professional data plot.JPG" style="height: 500px; width:600px;"/>
 
 Observation : Download Voice of male speaker pronouncing vowels correctly according to phoneme sequence and extracted formants from this audio. 
+
+### Task Complexity 
+* Speech is continuous signal and not sequence of elementary sounds.
+* Articulation depends on the surrounding sound.
+* Noise in the environment 
+* Prounciation of the Speaker
+
+## Flowchart of Process
+<img src="Images/flowchart process.JPG" style="height: 700px; width:600px;"/>
+
+## Flowchart of K means Algorithm
+<img src="Images/algorithm Flowchart.jpg" style="height: 800px; width:600px;"/>
+
+
+
+
