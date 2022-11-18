@@ -53,6 +53,26 @@ Observation : Download Voice of male speaker pronouncing vowels correctly accord
 ## Flowchart of K means Algorithm
 <img src="Images/algorithm Flowchart.jpg" style="height: 800px; width:600px;"/>
 
+## Results and Observation
+### **Clustering perform on all three data With Use of standard Library**
+
+<p float="left">
+  <img src="Images/clusterring with library My voice.JPG"  width="320" />
+  <img src="Images/clustering with library Female Professional.JPG" width="320" /> 
+  <img src="Images/clustering with library male Professional.JPG" width="320" />
+</p>
+
+
+### **Clustering perform on all three data from scratch**
+
+<p float="left">
+  <img src="Images/clustering without library My voice.JPG"  width="320" />
+  <img src="Images/clustering without library Female Professional.JPG" width="320" /> 
+  <img src="Images/clustering without library male Professional.JPG" width="320" />
+</p>
+
+
+
 
 
 
